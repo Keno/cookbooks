@@ -1,39 +1,39 @@
 [submodule "apt"]
 	path = apt
-	url = ./apt
+	url = https://github.com/opscode-cookbooks/apt
 [submodule "build-essential"]
 	path = build-essential
-	url = ./apt
+	url = https://github.com/opscode-cookbooks/build-essential
 [submodule "chef_handler"]
 	path = chef_handler
-	url = ./chef_handler/
+	url = https://github.com/opscode-cookbooks/chef_handler
 [submodule "curl"]
 	path = curl
-	url = ./curl
+	url = https://github.com/retr0h/cookbook-curl
 [submodule "dmg"]
 	path = dmg
-	url = ./dmg
+	url = https://github.com/opscode-cookbooks/dmg
 [submodule "git"]
 	path = git
-	url = ./git
+	url = https://github.com/jssjr/git
 [submodule "mongodb"]
 	path = mongodb
-	url = ./mongodb
+	url = https://github.com/edelight/chef-mongodb
 [submodule "python"]
 	path = python
-	url = ./python/
+	url = https://github.com/poise/python
 [submodule "runit"]
 	path = runit
-	url = ./runit
+	url = https://github.com/hw-cookbooks/runit
 [submodule "vim"]
 	path = vim
-	url = ./vim
+	url = https://github.com/opscode-cookbooks/vim
 [submodule "windows"]
 	path = windows
-	url = ./windows
+	url = https://github.com/opscode-cookbooks/windows
 [submodule "yum-epel"]
 	path = yum-epel
-	url = ./yum-epel
+	url = https://github.com/chef-cookbooks/yum-epel
 [submodule "yum"]
 	path = yum
-	url = ./yum
+	url = https://github.com/chef-cookbooks/yum
