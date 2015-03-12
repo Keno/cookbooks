@@ -1,0 +1,39 @@
+[submodule "apt"]
+	path = apt
+	url = ./apt
+[submodule "build-essential"]
+	path = build-essential
+	url = ./apt
+[submodule "chef_handler"]
+	path = chef_handler
+	url = ./chef_handler/
+[submodule "curl"]
+	path = curl
+	url = ./curl
+[submodule "dmg"]
+	path = dmg
+	url = ./dmg
+[submodule "git"]
+	path = git
+	url = ./git
+[submodule "mongodb"]
+	path = mongodb
+	url = ./mongodb
+[submodule "python"]
+	path = python
+	url = ./python/
+[submodule "runit"]
+	path = runit
+	url = ./runit
+[submodule "vim"]
+	path = vim
+	url = ./vim
+[submodule "windows"]
+	path = windows
+	url = ./windows
+[submodule "yum-epel"]
+	path = yum-epel
+	url = ./yum-epel
+[submodule "yum"]
+	path = yum
+	url = ./yum
