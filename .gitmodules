@@ -37,3 +37,15 @@
 [submodule "yum"]
 	path = yum
 	url = https://github.com/chef-cookbooks/yum
+[submodule "ark"]
+	path = ark
+	url = https://github.com/burtlo/ark
+[submodule "chef-cmake"]
+	path = chef-cmake
+	url = https://github.com/phlipper/chef-cmake
+[submodule "homebrew"]
+	path = homebrew
+	url = https://github.com/opscode-cookbooks/homebrew
+[submodule "nodejs"]
+	path = nodejs
+	url = https://github.com/redguide/nodejs
