@@ -49,3 +49,15 @@
 [submodule "nodejs"]
 	path = nodejs
 	url = https://github.com/redguide/nodejs
+[submodule "chef-ninja"]
+	path = chef-ninja
+	url = https://github.com/floooh/chef-ninja
+[submodule "chef-htop"]
+	path = chef-htop
+	url = https://github.com/phlipper/chef-htop
+[submodule "yum-repoforge"]
+	path = yum-repoforge
+	url = https://github.com/chef-cookbooks/yum-repoforge
+[submodule "gfortran"]
+	path = gfortran
+	url = https://github.com/julia-ci/cookbook-gfortran
